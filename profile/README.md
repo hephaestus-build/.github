@@ -1,12 +1,10 @@
-<p align="center">
+<h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logo.svg">
-    <img alt="Hephaestus logo" height="110" src="./assets/logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hephaestus-lockup-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hephaestus-lockup-light.png">
+    <img alt="Hephaestus" width="484" src="./assets/hephaestus-lockup-light.png">
   </picture>
-</p>
-
-<h1 align="center">Hephaestus</h1>
+</h1>
 
 <p align="center">
   <strong>Learn from the work you're already doing.</strong>

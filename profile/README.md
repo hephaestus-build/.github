@@ -80,14 +80,14 @@ We welcome contributions from everyone.
   <a href="https://aet.cit.tum.de/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/aet-mark-dark.svg">
-      <img alt="Applied Education Technologies" src="./assets/aet-mark.svg" height="72">
+      <img alt="Applied Education Technologies" align="middle" src="./assets/aet-mark.svg" height="72">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tum.de/en/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/tum-logo-dark.svg">
-      <img alt="Technical University of Munich" src="./assets/tum-logo.svg" height="56">
+      <img alt="Technical University of Munich" align="middle" src="./assets/tum-logo.svg" height="56">
     </picture>
   </a>
   <br>

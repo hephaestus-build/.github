@@ -32,10 +32,10 @@ Feedback on how you work is a mentor's job, and there is never enough of that at
 round. Hephaestus carries the routine part so that everyone gets some — the harder judgement
 and the relationships stay with people.
 
-Hephaestus is developed by the
-[Research Group Applied Education Technologies (AET)](https://aet.cit.tum.de) at the
-**Technical University of Munich (TUM)**, where it mentors students in project-based software
-engineering courses. It is built to run anywhere a team works.
+Hephaestus is developed by
+[Applied Education Technologies (AET)](https://aet.cit.tum.de/) at the
+[Technical University of Munich (TUM)](https://www.tum.de/en/), where it mentors students in
+project-based software engineering courses. It is built to run anywhere a team works.
 
 ## Our Repositories
 
@@ -75,4 +75,21 @@ We welcome contributions from everyone.
 
 ---
 
-<sub>Hephaestus is developed at the Research Group Applied Education Technologies (AET), Technical University of Munich, and released under the MIT License.</sub>
+<p align="center">
+  <strong>Developed by</strong><br><br>
+  <a href="https://aet.cit.tum.de/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/aet-mark-dark.svg">
+      <img alt="Applied Education Technologies" src="./assets/aet-mark.svg" height="72">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tum.de/en/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/tum-logo-dark.svg">
+      <img alt="Technical University of Munich" src="./assets/tum-logo.svg" height="56">
+    </picture>
+  </a>
+  <br>
+  <sub><a href="https://aet.cit.tum.de/">Research Group for Applied Education Technologies</a> · <a href="https://www.tum.de/en/">Technical University of Munich</a></sub>
+</p>
